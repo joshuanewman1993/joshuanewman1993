@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola, I'm Josh 👋
 
-<!--
-**joshuanewman1993/joshuanewman1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently living in Melbourne, Australia. I am working at Art Processors where I design, develop and deploy exciting and engaging visitor experiences for Museums and Exhibitions all over the world.
 
-Here are some ideas to get you started:
+I am orginally from the Leeds in the UK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on:
+
+- [Portfolio](https://joshua-newman.com/)
+
+- [Medium](https://medium.com/@joshuanewman1993)
+
+- [LinkedIn](https://www.linkedin.com/in/joshua-newman-67988b109/)
+
+- [Github](https://github.com/joshuanewman1993)
