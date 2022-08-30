@@ -1,6 +1,6 @@
 ### Hola, I'm Josh 👋
 
-I am currently living in Melbourne, Australia. Writing code at A Cloud Guru where we are trying to revolutionize learning cloud platforms online.
+I am currently living in Melbourne, Australia. Writing code at Redbubble where we are trying to revolutionize the way independent artists can sell their work online! 
 
 I am orginally from the Leeds in the UK.
 <!--- 
